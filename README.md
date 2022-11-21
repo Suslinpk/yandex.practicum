@@ -260,7 +260,7 @@
          <li> Анализ проведенного АВ тестирования;</li>
          <li> SQL-запросы;</li>
          <li> E-commerce — Выявление профилей потребления;</li>
-         <li> Dashborn;</li>
+         <li> Dashboard;</li>
         </ol>
      </td>
      <td>
