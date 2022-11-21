@@ -208,7 +208,7 @@
     <tr>
      <td>
       <b>
-       10: <a href="hhttps://public.tableau.com/app/profile/.55128141/viz/Y_dzen_16562493834360/Dashboard1">
+       10: <a href="https://public.tableau.com/app/profile/.55128141/viz/Y_dzen_16562493834360/Dashboard1">
        Автоматизация</a>
       </b>
      </td>
@@ -257,10 +257,10 @@
      </td>
      <td>
         <ol>
-         <li> - Анализ проведенного АВ тестирования;</li>
-         <li> - SQL-запросы;</li>
-         <li> - E-commerce — Выявление профилей потребления;</li>
-         <li> - Дашборд;</li>
+         <li> Анализ проведенного АВ тестирования;</li>
+         <li> SQL-запросы;</li>
+         <li> E-commerce — Выявление профилей потребления;</li>
+         <li> Dashborn;</li>
         </ol>
      </td>
      <td>
